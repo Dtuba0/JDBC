@@ -56,5 +56,6 @@ public class ExecuteQuery01 {
 
         System.out.println("--------------------ÖDEV------------------------");
         //ÖDEV:Puanı taban puanlarının ortalamasından yüksek olan öğrencilerin isim ve puanlarını listeleyiniz.
+        //ıjncıolkdnlovcenvoıcenwco
     }
 }
