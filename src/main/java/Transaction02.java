@@ -58,7 +58,7 @@ public class Transaction02 {
             con.rollback();//işlemlerden en az birisi başarısız ise
             //o halde tüm işlemleri geri almak icin ;
 
-        }///lipşölutikmşölçytü,ğglçm
+        }
 
 
 
